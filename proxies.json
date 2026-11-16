@@ -1,0 +1,92 @@
+[
+    {
+        "server": "172.65.62.96",
+        "port": 49955,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 4
+    },
+    {
+        "server": "172.65.39.222",
+        "port": 131515,
+        "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+        "latency": 28
+    },
+    {
+        "server": "194.120.230.106",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 86
+    },
+    {
+        "server": "ir.mohearn.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "latency": 87
+    },
+    {
+        "server": "awd.subaru-volga.com",
+        "port": 443,
+        "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+        "latency": 89
+    },
+    {
+        "server": "46.225.35.245",
+        "port": 443,
+        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+        "latency": 90
+    },
+    {
+        "server": "176.65.135.69",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 95
+    },
+    {
+        "server": "ir-ir.ataman.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "latency": 96
+    },
+    {
+        "server": "ahvaz.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 99
+    },
+    {
+        "server": "nakoshimon-jomong.lolauth.info",
+        "port": 8443,
+        "secret": "1603010200010001fc030386e24c3add",
+        "latency": 101
+    },
+    {
+        "server": "H2O.miandoabs.info",
+        "port": 8443,
+        "secret": "1603010200010001fc030386e24c3add",
+        "latency": 101
+    },
+    {
+        "server": "comback-all.hosiyaman.info",
+        "port": 8443,
+        "secret": "1603010200010001fc030386e24c3add",
+        "latency": 102
+    },
+    {
+        "server": "jhndoes.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 102
+    },
+    {
+        "server": "lol-lock.godserver52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 103
+    },
+    {
+        "server": "ir.strobox.info",
+        "port": 443,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "latency": 103
+    }
+]
