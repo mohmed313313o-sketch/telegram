@@ -1,92 +1,92 @@
 [
     {
-        "server": "5.75.252.233",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 152
+        "server": "46.225.35.245",
+        "port": 443,
+        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+        "latency": 106
     },
     {
-        "server": "S1.server-space52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 161
-    },
-    {
-        "server": "sefid.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 161
-    },
-    {
-        "server": "tassian.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 162
-    },
-    {
-        "server": "AVA.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 162
-    },
-    {
-        "server": "mio.miosen.cyou",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 163
-    },
-    {
-        "server": "narooo.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 163
-    },
-    {
-        "server": "se.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "shoes.golgoli2.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "91.98.107.89",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 166
+        "server": "103.161.35.56",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 108
     },
     {
         "server": "valenki.kemerovo.online",
         "port": 443,
         "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-        "latency": 166
+        "latency": 112
     },
     {
-        "server": "you.pelastic.co.uk.",
-        "port": 443,
-        "secret": "ddc3b375786a3b9630e44cf87d2033a441",
-        "latency": 167
+        "server": "name.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 113
     },
     {
-        "server": "team.fast--pro.co.uk.",
+        "server": "old.graduat.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 114
+    },
+    {
+        "server": "panel.hook--tehran.co.uk.",
         "port": 443,
         "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-        "latency": 168
+        "latency": 118
     },
     {
-        "server": "irluxcars.site",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 168
+        "server": "jhndoes.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 119
+    },
+    {
+        "server": "we.antony-gordon.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 120
+    },
+    {
+        "server": "barsik.subaru-volga.com",
+        "port": 443,
+        "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+        "latency": 123
+    },
+    {
+        "server": "new.nakoskoskesh.co.uk",
+        "port": 8080,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 123
+    },
+    {
+        "server": "dns.speed-benz.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 124
     },
     {
         "server": "vasle.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 168
+        "latency": 129
+    },
+    {
+        "server": "gakany71.ashwren.xyz",
+        "port": 443,
+        "secret": "eef17c22a56cac8bd46d12b91f8f9e102f786170692e6f7a6f6e2e7275",
+        "latency": 129
+    },
+    {
+        "server": "fruit.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 130
+    },
+    {
+        "server": "AZADI.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 130
     }
 ]
