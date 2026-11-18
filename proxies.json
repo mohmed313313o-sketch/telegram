@@ -1,92 +1,92 @@
 [
     {
+        "server": "46.225.35.245",
+        "port": 443,
+        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+        "latency": 139
+    },
+    {
         "server": "5.75.226.255",
         "port": 75,
         "secret": "ameuTC0XO0FodFQ1yzE6OQ",
-        "latency": 136
+        "latency": 141
     },
     {
-        "server": "vahshianeh.ghodratitarin.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1",
-        "latency": 163
-    },
-    {
-        "server": "checkout.steampower.online",
-        "port": 3864,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 164
-    },
-    {
-        "server": "stream.amaster.xyz.",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ==",
-        "latency": 164
-    },
-    {
-        "server": "s7n.ir.ir.ir.meli-n12.info",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 166
-    },
-    {
-        "server": "AZADI.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 166
-    },
-    {
-        "server": "proxy.foriran.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 169
-    },
-    {
-        "server": "new.magli200.info",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 169
-    },
-    {
-        "server": "do.anotelinopalk.co.uk",
+        "server": "yek.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 173
+        "latency": 157
     },
     {
-        "server": "refiq.poolaki.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 173
+        "server": "a3.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159
     },
     {
-        "server": "my.soft98.co.uk",
+        "server": "hadaf.golgoli2.co.uk",
+        "port": 2053,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 164
+    },
+    {
+        "server": "ir.mediaad.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 164
+    },
+    {
+        "server": "hash.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 165
+    },
+    {
+        "server": "333.antony-gordon.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 174
+        "latency": 168
     },
     {
-        "server": "parts.kemerovo.online",
-        "port": 443,
-        "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-        "latency": 174
-    },
-    {
-        "server": "you.nasakhamia.co.uk",
+        "server": "puot.mozitop.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 175
-    },
-    {
-        "server": "soh5.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 175
+        "latency": 168
     },
     {
         "server": "boro.poolaki.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 173
+    },
+    {
+        "server": "great.cipservice.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 173
+    },
+    {
+        "server": "soh5.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 173
+    },
+    {
+        "server": "lol-lock.godserver52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 174
+    },
+    {
+        "server": "do.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 175
+    },
+    {
+        "server": "old.graduat.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 177
     }
 ]
