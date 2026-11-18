@@ -1,92 +1,92 @@
 [
     {
-        "server": "91.98.219.255",
+        "server": "185.19.33.86",
+        "port": 443,
+        "secret": "eef08dee29bc748ad2f349c593e042bad87777772e6d6963726f736f66742e636f6d",
+        "latency": 106
+    },
+    {
+        "server": "78.47.131.66",
         "port": 8443,
-        "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01dd",
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 136
+    },
+    {
+        "server": "ir.xeonxu.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "latency": 144
+    },
+    {
+        "server": "hapoo.nanaz.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 144
+    },
+    {
+        "server": "leomessi.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 145
+    },
+    {
+        "server": "a2.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 146
+    },
+    {
+        "server": "name.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 147
+    },
+    {
+        "server": "kvas.kemerovo.online",
+        "port": 8443,
+        "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+        "latency": 148
+    },
+    {
+        "server": "nigan.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 149
+    },
+    {
+        "server": "se.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 150
     },
     {
-        "server": "46.224.220.150",
-        "port": 443,
-        "secret": "eedfc04a3770990789e814bb9d3aa32eb57777772e6d6963726f736f66742e636f6d",
-        "latency": 157
-    },
-    {
-        "server": "star.talebi.co.uk",
+        "server": "shoes.golgoli2.co.uk",
         "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 168
+        "latency": 151
     },
     {
-        "server": "65.108.209.51",
+        "server": "nab.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 169
+        "latency": 154
     },
     {
-        "server": "91.98.109.248",
+        "server": "exiscos.co.uk.",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 171
-    },
-    {
-        "server": "91.98.107.89",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 176
-    },
-    {
-        "server": "do.anotelinopalk.co.uk",
-        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 179
+        "latency": 154
+    },
+    {
+        "server": "jadid.zhigool.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 157
     },
     {
         "server": "server63.server-space52.info",
         "port": 2020,
         "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 181
-    },
-    {
-        "server": "65.109.255.138",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 181
-    },
-    {
-        "server": "pnj.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 184
-    },
-    {
-        "server": "dokhtar.nanaz.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 186
-    },
-    {
-        "server": "gamecenter.amaster.xyz.",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ==",
-        "latency": 189
-    },
-    {
-        "server": "a5.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 191
-    },
-    {
-        "server": "boro.poolaki.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 192
-    },
-    {
-        "server": "bookmook.hichibehichi-co.info.",
-        "port": 2882,
-        "secret": "dd10400103324995b07c030386e886e7f1",
-        "latency": 192
+        "latency": 160
     }
 ]
