@@ -1,92 +1,92 @@
 [
     {
-        "server": "46.225.35.245",
-        "port": 443,
-        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
-        "latency": 139
-    },
-    {
-        "server": "5.75.226.255",
-        "port": 75,
-        "secret": "ameuTC0XO0FodFQ1yzE6OQ",
-        "latency": 141
-    },
-    {
-        "server": "yek.anotelinopalk.co.uk",
-        "port": 8880,
+        "server": "172.65.62.96",
+        "port": 49955,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 157
+        "latency": 18
     },
     {
-        "server": "a3.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 159
+        "server": "2.31.207.88",
+        "port": 8443,
+        "secret": "a6abb9f9f502e1e96319eb1fc6b897f7",
+        "latency": 136
     },
     {
-        "server": "hadaf.golgoli2.co.uk",
-        "port": 2053,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 164
-    },
-    {
-        "server": "ir.mediaad.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 164
-    },
-    {
-        "server": "hash.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "333.antony-gordon.co.uk",
+        "server": "91.98.97.225",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 168
+        "latency": 149
     },
     {
-        "server": "puot.mozitop.co.uk",
+        "server": "88.99.126.37",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 149
+    },
+    {
+        "server": "jhndoes.co.uk.",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 168
+        "latency": 154
     },
     {
-        "server": "boro.poolaki.co.uk",
+        "server": "78.46.240.254",
         "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 173
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 156
     },
     {
-        "server": "great.cipservice.co.uk",
+        "server": "aseman.lunavane.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 160
+    },
+    {
+        "server": "91.98.107.89",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 160
+    },
+    {
+        "server": "digi.golgoli2.co.uk",
         "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 173
+        "latency": 161
+    },
+    {
+        "server": "AZADI.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 162
+    },
+    {
+        "server": "royaclinic.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 163
     },
     {
         "server": "soh5.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 173
+        "latency": 164
     },
     {
-        "server": "lol-lock.godserver52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 174
+        "server": "65.109.255.138",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 166
     },
     {
-        "server": "do.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 175
-    },
-    {
-        "server": "old.graduat.co.uk",
+        "server": "333.antony-gordon.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 177
+        "latency": 169
+    },
+    {
+        "server": "narooo.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 172
     }
 ]
