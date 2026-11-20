@@ -1,92 +1,92 @@
 [
     {
-        "server": "shsh.anotelinopalk.co.uk",
+        "server": "172.65.172.190",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 6
+    },
+    {
+        "server": "ajab.lolauth.info",
+        "port": 8443,
+        "secret": "1603010200010001fc030386e24c3add",
+        "latency": 129
+    },
+    {
+        "server": "silnet.varfootball.co.uk",
+        "port": 2053,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 141
+    },
+    {
+        "server": "65.109.106.179",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 144
+    },
+    {
+        "server": "noh.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 90
+        "latency": 149
     },
     {
-        "server": "a3.anotelinopalk.co.uk",
+        "server": "opss.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 93
+        "latency": 153
     },
     {
-        "server": "do.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 95
+        "server": "orchid.velvetwindow.cc",
+        "port": 443,
+        "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e76656c76657477696e646f772e6363",
+        "latency": 155
     },
     {
-        "server": "a5.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 97
+        "server": "worldmaster.varomax.co.uk.",
+        "port": 5500,
+        "secret": "eeRigzNJvXrFGRMCIMJdEA",
+        "latency": 157
     },
     {
-        "server": "shoes.golgoli2.co.uk",
-        "port": 2096,
+        "server": "ir.closcloud.co.uk",
+        "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 98
+        "latency": 158
     },
     {
-        "server": "great.cipservice.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 98
+        "server": "panel.hook--tehran.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+        "latency": 158
     },
     {
         "server": "old.graduat.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 103
+        "latency": 163
     },
     {
-        "server": "135.181.74.183",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-        "latency": 104
+        "server": "s2.server-space52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 163
     },
     {
-        "server": "176.65.151.68",
-        "port": 443,
-        "secret": "dd27729feca8dbcd8008c3fa4f12d92793",
-        "latency": 108
-    },
-    {
-        "server": "Help.helps.help",
+        "server": "ving.mozitop.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 110
+        "latency": 163
     },
     {
-        "server": "nice.rozinalpoku.co.uk",
-        "port": 8080,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 113
-    },
-    {
-        "server": "nab.goooalir.co.uk",
+        "server": "for.you.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 113
+        "latency": 163
     },
     {
-        "server": "Speed-speed.co.uk.",
-        "port": 443,
-        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-        "latency": 114
-    },
-    {
-        "server": "proxy.nizya.club",
-        "port": 443,
-        "secret": "ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562",
-        "latency": 114
-    },
-    {
-        "server": "ABOUT.Roo3beh.blog",
-        "port": 8443,
+        "server": "irogallery.golgoli1.co.uk",
+        "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 117
+        "latency": 165
     }
 ]
