@@ -1,92 +1,92 @@
 [
     {
-        "server": "172.65.62.96",
-        "port": 49955,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 6
-    },
-    {
-        "server": "a2.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 141
-    },
-    {
-        "server": "silver.ciaude.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 147
-    },
-    {
-        "server": "old.graduat.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 149
+        "server": "91.221.191.138",
+        "port": 443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 139
     },
     {
         "server": "a4.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 150
+        "latency": 161
     },
     {
-        "server": "speed.runserver.co.uk.",
+        "server": "isaco.ir.setado.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 169
+    },
+    {
+        "server": "my.soft98.co.uk",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 151
+        "latency": 169
     },
     {
-        "server": "team.fast--pro.co.uk.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-        "latency": 152
-    },
-    {
-        "server": "ahvaz.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 153
-    },
-    {
-        "server": "leomessi.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 154
-    },
-    {
-        "server": "from.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 155
-    },
-    {
-        "server": "dokhtar.nanaz.co.uk",
+        "server": "bastani.mikhay.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 156
+        "latency": 172
+    },
+    {
+        "server": "torobchesho.co.uk.",
+        "port": 443,
+        "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
+        "latency": 172
+    },
+    {
+        "server": "65.109.98.213",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 173
+    },
+    {
+        "server": "5ti.do.ru7.lq.v.8v.ir.ir.ir.pd.8kmc.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "latency": 175
+    },
+    {
+        "server": "russia.knox-proxy.world",
+        "port": 4515,
+        "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+        "latency": 176
     },
     {
         "server": "worldmaster.varomax.co.uk.",
         "port": 5500,
         "secret": "eeRigzNJvXrFGRMCIMJdEA",
-        "latency": 159
+        "latency": 176
     },
     {
-        "server": "craft.malavanann.co.uk",
-        "port": 2083,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 159
-    },
-    {
-        "server": "soh5.goooalir.co.uk",
+        "server": "narooo.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 165
+        "latency": 179
     },
     {
-        "server": "jedi-migi.ebimarh.info",
+        "server": "se.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 182
+    },
+    {
+        "server": "nice.rozinalpoku.co.uk",
+        "port": 8080,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 183
+    },
+    {
+        "server": "hapoo.nanaz.co.uk",
         "port": 8443,
-        "secret": "1603010200010001fc030386e24c3add",
-        "latency": 167
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 185
+    },
+    {
+        "server": "speed.runserver.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 185
     }
 ]
