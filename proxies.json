@@ -1,92 +1,92 @@
 [
     {
-        "server": "79.137.196.223",
-        "port": 2053,
-        "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d",
-        "latency": 121
-    },
-    {
-        "server": "hadaf.golgoli2.co.uk",
-        "port": 2053,
+        "server": "172.65.62.96",
+        "port": 49955,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 132
+        "latency": 6
     },
     {
-        "server": "narooo.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 143
-    },
-    {
-        "server": "run.golgoli2.co.uk",
-        "port": 2053,
+        "server": "a2.anotelinopalk.co.uk",
+        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 146
+        "latency": 141
     },
     {
-        "server": "tassian.goooalir.co.uk",
+        "server": "silver.ciaude.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 147
+    },
+    {
+        "server": "old.graduat.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 149
     },
     {
-        "server": "craft.malavanann.co.uk",
-        "port": 2083,
+        "server": "a4.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 150
+    },
+    {
+        "server": "speed.runserver.co.uk.",
+        "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 151
     },
     {
-        "server": "65.109.255.138",
-        "port": 8443,
+        "server": "team.fast--pro.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+        "latency": 152
+    },
+    {
+        "server": "ahvaz.co.uk",
+        "port": 4455,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 151
-    },
-    {
-        "server": "jhndoes.co.uk.",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 154
-    },
-    {
-        "server": "AVA.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 154
-    },
-    {
-        "server": "5ti.do.ru7.lq.v.8v.ir.ir.ir.pd.8kmc.co.uk.",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "latency": 154
+        "latency": 153
     },
     {
         "server": "leomessi.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 155
-    },
-    {
-        "server": "worldmaster.varomax.co.uk.",
-        "port": 5500,
-        "secret": "eeRigzNJvXrFGRMCIMJdEA",
-        "latency": 156
-    },
-    {
-        "server": "nab.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 156
+        "latency": 154
     },
     {
         "server": "from.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 157
+        "latency": 155
     },
     {
         "server": "dokhtar.nanaz.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 160
+        "latency": 156
+    },
+    {
+        "server": "worldmaster.varomax.co.uk.",
+        "port": 5500,
+        "secret": "eeRigzNJvXrFGRMCIMJdEA",
+        "latency": 159
+    },
+    {
+        "server": "craft.malavanann.co.uk",
+        "port": 2083,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159
+    },
+    {
+        "server": "soh5.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 165
+    },
+    {
+        "server": "jedi-migi.ebimarh.info",
+        "port": 8443,
+        "secret": "1603010200010001fc030386e24c3add",
+        "latency": 167
     }
 ]
