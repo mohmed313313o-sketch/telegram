@@ -1,92 +1,92 @@
 [
     {
+        "server": "5.75.226.255",
+        "port": 75,
+        "secret": "ameuTC0XO0FodFQ1yzE6OQ",
+        "latency": 150
+    },
+    {
         "server": "46.225.35.245",
         "port": 443,
         "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
-        "latency": 149
+        "latency": 153
     },
     {
-        "server": "iro.varfootball2.co.uk",
-        "port": 2053,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 155
-    },
-    {
-        "server": "hash.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 157
-    },
-    {
-        "server": "digi.golgoli2.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 157
-    },
-    {
-        "server": "nab.goooalir.co.uk",
+        "server": "bastani.mikhay.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 161
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 157
     },
     {
-        "server": "a3.anotelinopalk.co.uk",
+        "server": "shsh.anotelinopalk.co.uk",
         "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159
+    },
+    {
+        "server": "a5.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159
+    },
+    {
+        "server": "shomal.bingi.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 159
+    },
+    {
+        "server": "char.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 160
+    },
+    {
+        "server": "torobchesho.co.uk.",
+        "port": 443,
+        "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
+        "latency": 162
+    },
+    {
+        "server": "e3fand.fesgheli.co.uk.",
+        "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 162
     },
     {
-        "server": "shoes.golgoli2.co.uk",
-        "port": 2096,
+        "server": "server93.server-space52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 162
+    },
+    {
+        "server": "server83.server-space52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 163
+    },
+    {
+        "server": "AZADI.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 163
+    },
+    {
+        "server": "a2.anotelinopalk.co.uk",
+        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 164
     },
     {
-        "server": "fruit.golgoli2.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "tehran.bingi.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "telegram.telbet.app",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 168
-    },
-    {
-        "server": "dns.speed-benz.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 169
-    },
-    {
-        "server": "nigan.goooalir.co.uk",
+        "server": "21.mmd1.meli-n12.info",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 171
+        "latency": 166
     },
     {
-        "server": "88.99.126.37",
+        "server": "soh5.goooalir.co.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 171
-    },
-    {
-        "server": "65.108.209.51",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 172
-    },
-    {
-        "server": "hapoo.nanaz.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 174
+        "latency": 167
     }
 ]
