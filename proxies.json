@@ -1,92 +1,92 @@
 [
     {
-        "server": "5.75.226.255",
-        "port": 75,
-        "secret": "ameuTC0XO0FodFQ1yzE6OQ",
-        "latency": 150
+        "server": "star.talebi.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 162
+    },
+    {
+        "server": "65.21.227.204",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 165
+    },
+    {
+        "server": "65.109.98.231",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 166
     },
     {
         "server": "46.225.35.245",
         "port": 443,
         "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
-        "latency": 153
+        "latency": 168
     },
     {
-        "server": "bastani.mikhay.co.uk",
+        "server": "hash.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 172
+    },
+    {
+        "server": "51.hide.7y76y.uk",
         "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 157
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 179
     },
     {
-        "server": "shsh.anotelinopalk.co.uk",
+        "server": "haf.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 159
+        "latency": 180
     },
     {
-        "server": "a5.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 159
+        "server": "21.hide.7y76y.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 181
     },
     {
         "server": "shomal.bingi.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 159
+        "latency": 183
     },
     {
-        "server": "char.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 160
-    },
-    {
-        "server": "torobchesho.co.uk.",
+        "server": "ams2.tlgfast.com",
         "port": 443,
-        "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
-        "latency": 162
+        "secret": "ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d",
+        "latency": 183
     },
     {
-        "server": "e3fand.fesgheli.co.uk.",
-        "port": 8443,
+        "server": "craft.malavanann.co.uk",
+        "port": 2083,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 162
+        "latency": 186
     },
     {
-        "server": "server93.server-space52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 162
-    },
-    {
-        "server": "server83.server-space52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 163
-    },
-    {
-        "server": "AZADI.goooalir.co.uk",
+        "server": "boro.poolaki.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 163
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 187
     },
     {
-        "server": "a2.anotelinopalk.co.uk",
-        "port": 8880,
+        "server": "hadaf.golgoli2.co.uk",
+        "port": 2053,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 164
+        "latency": 189
     },
     {
-        "server": "21.mmd1.meli-n12.info",
+        "server": "11.hide.7y76y.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 166
+        "latency": 194
     },
     {
-        "server": "soh5.goooalir.co.uk",
+        "server": "hapoo.nanaz.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 167
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 195
     }
 ]
