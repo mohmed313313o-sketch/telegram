@@ -1,92 +1,92 @@
 [
     {
-        "server": "172.65.39.222",
-        "port": 131515,
-        "secret": "ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
-        "latency": 9
-    },
-    {
-        "server": "194.120.230.120",
+        "server": "46.225.35.245",
         "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-        "latency": 114
+        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+        "latency": 149
     },
     {
-        "server": "78.47.131.47",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 135
-    },
-    {
-        "server": "se.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 152
-    },
-    {
-        "server": "ir.mediaad.co.uk",
-        "port": 8880,
+        "server": "iro.varfootball2.co.uk",
+        "port": 2053,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 155
     },
     {
-        "server": "leomessi.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "server": "hash.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 157
     },
     {
-        "server": "org.mediaad.co.uk",
-        "port": 8880,
+        "server": "digi.golgoli2.co.uk",
+        "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 159
+        "latency": 157
     },
     {
-        "server": "we.antony-gordon.co.uk",
+        "server": "nab.goooalir.co.uk",
         "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 160
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 161
     },
     {
         "server": "a3.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 161
-    },
-    {
-        "server": "torobchesho.co.uk.",
-        "port": 443,
-        "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
         "latency": 162
     },
     {
-        "server": "narooo.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "server": "shoes.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 164
     },
     {
-        "server": "from.goooalir.co.uk",
+        "server": "fruit.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 165
+    },
+    {
+        "server": "tehran.bingi.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 170
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "latency": 165
     },
     {
         "server": "telegram.telbet.app",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 170
+        "latency": 168
     },
     {
-        "server": "server63.server-space52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 174
+        "server": "dns.speed-benz.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 169
     },
     {
-        "server": "Speed-speed.co.uk.",
-        "port": 443,
-        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+        "server": "nigan.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 171
+    },
+    {
+        "server": "88.99.126.37",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 171
+    },
+    {
+        "server": "65.108.209.51",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 172
+    },
+    {
+        "server": "hapoo.nanaz.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
         "latency": 174
     }
 ]
