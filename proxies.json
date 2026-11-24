@@ -1,92 +1,92 @@
 [
     {
-        "server": "star.talebi.co.uk",
+        "server": "172.65.172.190",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 1
+    },
+    {
+        "server": "ir.mediaad.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 152
+    },
+    {
+        "server": "a4.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159
+    },
+    {
+        "server": "name.golgoli2.co.uk",
         "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 162
+        "latency": 161
     },
     {
-        "server": "65.21.227.204",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "server": "Yaghoub.Leys.Safari.ir.igakwvwa.info.",
+        "port": 7443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 164
+    },
+    {
+        "server": "yek.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 165
-    },
-    {
-        "server": "65.109.98.231",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-        "latency": 166
-    },
-    {
-        "server": "46.225.35.245",
-        "port": 443,
-        "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
-        "latency": 168
-    },
-    {
-        "server": "hash.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 172
-    },
-    {
-        "server": "51.hide.7y76y.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 179
-    },
-    {
-        "server": "haf.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 180
-    },
-    {
-        "server": "21.hide.7y76y.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 181
-    },
-    {
-        "server": "shomal.bingi.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 183
-    },
-    {
-        "server": "ams2.tlgfast.com",
-        "port": 443,
-        "secret": "ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d",
-        "latency": 183
-    },
-    {
-        "server": "craft.malavanann.co.uk",
-        "port": 2083,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 186
-    },
-    {
-        "server": "boro.poolaki.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 187
-    },
-    {
-        "server": "hadaf.golgoli2.co.uk",
-        "port": 2053,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 189
     },
     {
         "server": "11.hide.7y76y.uk",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 194
+        "latency": 165
     },
     {
-        "server": "hapoo.nanaz.co.uk",
+        "server": "a2.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 166
+    },
+    {
+        "server": "21.mmd1.meli-n12.info",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 166
+    },
+    {
+        "server": "haf.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 168
+    },
+    {
+        "server": "Ulp.tz.9a.xu.cs.ir.jp.ir.ze8.ir.v6.8kmc.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "latency": 169
+    },
+    {
+        "server": "91.98.109.248",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 171
+    },
+    {
+        "server": "236f1.mmd1.meli-n12.info",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 172
+    },
+    {
+        "server": "tehran.bingi.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 195
+        "latency": 173
+    },
+    {
+        "server": "tassian.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 175
     }
 ]
