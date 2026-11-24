@@ -1,92 +1,92 @@
 [
     {
-        "server": "172.65.172.190",
+        "server": "AVA.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 147
+    },
+    {
+        "server": "aseman.lunavane.co.uk.",
         "port": 8443,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 1
+        "latency": 155
     },
     {
-        "server": "ir.mediaad.co.uk",
-        "port": 8880,
+        "server": "irogallery.golgoli1.co.uk",
+        "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 152
+        "latency": 156
     },
     {
-        "server": "a4.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "server": "AZADI.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
         "latency": 159
     },
     {
-        "server": "name.golgoli2.co.uk",
-        "port": 2096,
+        "server": "noh.ionox.co.uk",
+        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 161
+        "latency": 163
     },
     {
-        "server": "Yaghoub.Leys.Safari.ir.igakwvwa.info.",
-        "port": 7443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "server": "3621.mmd1.meli-n12.info",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
         "latency": 164
     },
     {
-        "server": "yek.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 165
-    },
-    {
-        "server": "11.hide.7y76y.uk",
+        "server": "jhndoes.co.uk.",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 165
-    },
-    {
-        "server": "a2.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 166
-    },
-    {
-        "server": "21.mmd1.meli-n12.info",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 166
-    },
-    {
-        "server": "haf.anotelinopalk.co.uk",
-        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "latency": 168
     },
     {
-        "server": "Ulp.tz.9a.xu.cs.ir.jp.ir.ze8.ir.v6.8kmc.co.uk.",
+        "server": "ir-neverland.nowhearthis.co.uk",
         "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "latency": 169
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "latency": 176
     },
     {
-        "server": "91.98.109.248",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 171
+        "server": "nice.rozinalpoku.co.uk",
+        "port": 8080,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 177
     },
     {
-        "server": "236f1.mmd1.meli-n12.info",
+        "server": "white.graduat.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 172
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 179
     },
     {
-        "server": "tehran.bingi.co.uk",
+        "server": "aptupdate.appnormoor.info",
+        "port": 443,
+        "secret": "dd27729feca8dbcd8008c3fa4f12d92793",
+        "latency": 185
+    },
+    {
+        "server": "nyakawai.shop",
+        "port": 443,
+        "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+        "latency": 189
+    },
+    {
+        "server": "nfc.neo-duo.co.uk",
         "port": 8443,
         "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 173
+        "latency": 189
     },
     {
-        "server": "tassian.goooalir.co.uk",
+        "server": "server83.server-space52.info",
+        "port": 2020,
+        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "latency": 195
+    },
+    {
+        "server": "new.magli200.info",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 175
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 200
     }
 ]
