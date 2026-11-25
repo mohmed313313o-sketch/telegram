@@ -1,92 +1,92 @@
 [
     {
-        "server": "AVA.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 147
+        "server": "156.229.164.62",
+        "port": 5202,
+        "secret": "ee6ca8e315abf7fb512ec858e61679a9e8617a7572652e6d6963726f736f66742e636f6d",
+        "latency": 12
     },
     {
-        "server": "aseman.lunavane.co.uk.",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 155
+        "server": "85.133.200.11",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 134
     },
     {
-        "server": "irogallery.golgoli1.co.uk",
+        "server": "85.133.200.47",
+        "port": 8880,
+        "secret": "dd1603010200010001fc030386e24c3add",
+        "latency": 134
+    },
+    {
+        "server": "87.248.144.253",
         "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 156
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 134
     },
     {
-        "server": "AZADI.goooalir.co.uk",
+        "server": "188.40.68.147",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "secret": "104462821249bd7ac519130220c25d09",
+        "latency": 136
+    },
+    {
+        "server": "79.137.196.223",
+        "port": 4443,
+        "secret": "eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d",
+        "latency": 150
+    },
+    {
+        "server": "79.137.196.223",
+        "port": 2053,
+        "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d",
+        "latency": 151
+    },
+    {
+        "server": "a3.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 157
+    },
+    {
+        "server": "65.109.210.184",
+        "port": 8443,
+        "secret": "79e344818749bd7ac519130220c25d09",
         "latency": 159
     },
     {
-        "server": "noh.ionox.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "server": "jhndoes.co.uk",
+        "port": 8443,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 159
+    },
+    {
+        "server": "tassian.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 160
+    },
+    {
+        "server": "dark1.qavi-13.co.uk",
+        "port": 1550,
+        "secret": "cc4b1c883a3b456d402c73a5c23a42e3",
         "latency": 163
     },
     {
-        "server": "3621.mmd1.meli-n12.info",
+        "server": "darkdept.store",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "secret": "ee4cdc677c2048afa846136f4a70c05e827777772e6461726b646570742e73746f7265",
         "latency": 164
     },
     {
-        "server": "jhndoes.co.uk.",
+        "server": "95.216.181.157",
         "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 168
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 167
     },
     {
-        "server": "ir-neverland.nowhearthis.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "latency": 176
-    },
-    {
-        "server": "nice.rozinalpoku.co.uk",
-        "port": 8080,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 177
-    },
-    {
-        "server": "white.graduat.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 179
-    },
-    {
-        "server": "aptupdate.appnormoor.info",
-        "port": 443,
-        "secret": "dd27729feca8dbcd8008c3fa4f12d92793",
-        "latency": 185
-    },
-    {
-        "server": "nyakawai.shop",
-        "port": 443,
-        "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-        "latency": 189
-    },
-    {
-        "server": "nfc.neo-duo.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "latency": 189
-    },
-    {
-        "server": "server83.server-space52.info",
-        "port": 2020,
-        "secret": "AAAAAAAAAAAAAAAAAAAAAA==",
-        "latency": 195
-    },
-    {
-        "server": "new.magli200.info",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "latency": 200
+        "server": "russia.knox-proxy.world",
+        "port": 4515,
+        "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+        "latency": 171
     }
 ]
