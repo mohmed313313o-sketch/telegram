@@ -1,92 +1,92 @@
 [
     {
-        "server": "193.39.143.70",
-        "port": 443,
-        "secret": "eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275",
-        "latency": 150
-    },
-    {
-        "server": "85.133.200.47",
+        "server": "85.133.200.11",
         "port": 8880,
-        "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 153
-    },
-    {
-        "server": "server63.server-space52.info",
-        "port": 2020,
-        "secret": "00000000000000000000000000000000",
-        "latency": 154
-    },
-    {
-        "server": "87.248.144.60",
-        "port": 2053,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 155
+        "latency": 94
     },
     {
-        "server": "87.248.144.253",
+        "server": "87.248.144.249",
         "port": 2096,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 155
+        "latency": 95
     },
     {
-        "server": "178.105.141.172",
+        "server": "64.188.65.136",
         "port": 443,
-        "secret": "ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d",
-        "latency": 156
+        "secret": "eec11798ab008831b474066c9e1ebf5c997777772e78352e7275",
+        "latency": 98
     },
     {
-        "server": "ir.mediaad.co.uk",
+        "server": "do.ionox.co.uk",
         "port": 8880,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 163
-    },
-    {
-        "server": "shsh.anotelinopalk.co.uk",
-        "port": 8880,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 164
-    },
-    {
-        "server": "se.ionox.co.uk",
-        "port": 8880,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 164
+        "latency": 107
     },
     {
         "server": "88.99.126.37",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 167
+        "latency": 116
     },
     {
-        "server": "65.109.215.89",
+        "server": "org.mediaad.co.uk",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 117
+    },
+    {
+        "server": "karbon.torobchesho.co.uk",
+        "port": 443,
+        "secret": "ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b",
+        "latency": 119
+    },
+    {
+        "server": "noh.ionox.co.uk",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 119
+    },
+    {
+        "server": "kavilo33.sorrelbay.xyz",
+        "port": 8443,
+        "secret": "ee71184e2ac505ed5840dd5a00da3318f3786170692e6f7a6f6e2e7275",
+        "latency": 123
+    },
+    {
+        "server": "fast.prxtg.top",
+        "port": 443,
+        "secret": "ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d",
+        "latency": 125
+    },
+    {
+        "server": "shsh.anotelinopalk.co.uk",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 130
+    },
+    {
+        "server": "ccc.horizon555.co.uk",
         "port": 8443,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 169
+        "latency": 131
     },
     {
-        "server": "fruit.golgoli2.co.uk",
-        "port": 2096,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 169
+        "server": "server63.esantion.info",
+        "port": 2020,
+        "secret": "00000000000000000000000000000000",
+        "latency": 136
     },
     {
-        "server": "65.109.210.184",
+        "server": "new.magli200.info",
         "port": 8443,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 170
+        "latency": 136
     },
     {
-        "server": "65.109.211.207",
+        "server": "dl.linux-orggv.co.uk",
         "port": 8443,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 171
-    },
-    {
-        "server": "dark.qavi-13.co.uk",
-        "port": 1550,
-        "secret": "c176866d10f06db5b5b2a9defb9e1fd5",
-        "latency": 172
+        "secret": "104462821249bd7ac519130220c25d09",
+        "latency": 139
     }
 ]
