@@ -1,92 +1,92 @@
 [
     {
-        "server": "91.234.147.18",
+        "server": "91.221.191.138",
         "port": 443,
-        "secret": "00000000000000000000000000000000",
-        "latency": 136
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 120
     },
     {
-        "server": "91.234.147.28",
-        "port": 443,
-        "secret": "00000000000000000000000000000000",
-        "latency": 142
+        "server": "87.248.144.153",
+        "port": 8880,
+        "secret": "dd79e344818749bd7ac519130220c25d09",
+        "latency": 122
     },
     {
-        "server": "194.146.12.253",
-        "port": 8443,
-        "secret": "ee4cdc677c2048afa846136f4a70c05e827777772e6461726b646570742e73746f7265",
-        "latency": 152
+        "server": "87.248.144.249",
+        "port": 2096,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 122
     },
     {
-        "server": "85.133.200.48",
+        "server": "85.133.200.45",
         "port": 8880,
         "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 158
+        "latency": 122
     },
     {
-        "server": "85.133.200.47",
+        "server": "87.248.144.151",
         "port": 8880,
         "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 158
+        "latency": 127
     },
     {
-        "server": "max.kimt.click",
+        "server": "77.216.4.82",
         "port": 443,
-        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-        "latency": 160
+        "secret": "ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d",
+        "latency": 131
+    },
+    {
+        "server": "168.119.142.46",
+        "port": 443,
+        "secret": "dd79e7010200010007f0030386e24c3add",
+        "latency": 131
     },
     {
         "server": "188.40.68.147",
         "port": 8443,
         "secret": "104462821249bd7ac519130220c25d09",
-        "latency": 163
+        "latency": 131
     },
     {
-        "server": "dev.vetka.rest",
-        "port": 443,
-        "secret": "eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374",
-        "latency": 167
-    },
-    {
-        "server": "77.42.74.185",
-        "port": 8443,
-        "secret": "104462821249bd7ac519130220c25d09",
-        "latency": 168
-    },
-    {
-        "server": "5.222.4.90",
+        "server": "162.55.45.247",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 168
+        "latency": 132
     },
     {
-        "server": "5.222.0.59",
+        "server": "79.137.196.223",
+        "port": 4443,
+        "secret": "eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d",
+        "latency": 142
+    },
+    {
+        "server": "79.137.196.223",
+        "port": 9443,
+        "secret": "eeeed3431eaef666469f9beb5286a544d96f7777772e636c6f7564666c6172652e636f6d",
+        "latency": 143
+    },
+    {
+        "server": "65.109.214.109",
         "port": 8443,
-        "secret": "104462821249bd7ac519130220c8dd09",
-        "latency": 172
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 146
     },
     {
-        "server": "3621.mmd1.meli-n12.info",
+        "server": "79.137.196.223",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 173
+        "secret": "eeeeacd334a255675ccc880cb6b8c9caf07777772e636c6f7564666c6172652e636f6d",
+        "latency": 148
     },
     {
-        "server": "46.62.224.5",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 176
+        "server": "day.lavazem4.co.uk",
+        "port": 2053,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 150
     },
     {
-        "server": "zendebad.damavand.co.uk",
+        "server": "perfect.lavazem3.co.uk",
         "port": 2096,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 177
-    },
-    {
-        "server": "65.109.250.107",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 186
+        "latency": 151
     }
 ]
