@@ -1,92 +1,92 @@
 [
     {
-        "server": "as.mkim.click",
+        "server": "91.234.147.18",
         "port": 443,
-        "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-        "latency": 99
+        "secret": "00000000000000000000000000000000",
+        "latency": 136
     },
     {
-        "server": "85.133.200.41",
-        "port": 8880,
-        "secret": "dd79e344818749bd7ac519130220c25d09",
-        "latency": 110
+        "server": "91.234.147.28",
+        "port": 443,
+        "secret": "00000000000000000000000000000000",
+        "latency": 142
     },
     {
-        "server": "85.133.200.46",
-        "port": 8880,
-        "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 115
-    },
-    {
-        "server": "87.248.144.157",
-        "port": 8880,
-        "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 117
-    },
-    {
-        "server": "87.248.144.155",
-        "port": 8880,
-        "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 118
-    },
-    {
-        "server": "49.13.59.213",
+        "server": "194.146.12.253",
         "port": 8443,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 120
+        "secret": "ee4cdc677c2048afa846136f4a70c05e827777772e6461726b646570742e73746f7265",
+        "latency": 152
     },
     {
-        "server": "91.107.170.11",
-        "port": 8443,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 122
-    },
-    {
-        "server": "se.anotelinopalk.co.uk",
+        "server": "85.133.200.48",
         "port": 8880,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 124
+        "secret": "dd1603010200010001fc030386e24c3add",
+        "latency": 158
     },
     {
-        "server": "dh1.masi.ir.he6fhd.ru",
+        "server": "85.133.200.47",
+        "port": 8880,
+        "secret": "dd1603010200010001fc030386e24c3add",
+        "latency": 158
+    },
+    {
+        "server": "max.kimt.click",
+        "port": 443,
+        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+        "latency": 160
+    },
+    {
+        "server": "188.40.68.147",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c25d09",
+        "latency": 163
+    },
+    {
+        "server": "dev.vetka.rest",
+        "port": 443,
+        "secret": "eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374",
+        "latency": 167
+    },
+    {
+        "server": "77.42.74.185",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c25d09",
+        "latency": 168
+    },
+    {
+        "server": "5.222.4.90",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 129
+        "latency": 168
+    },
+    {
+        "server": "5.222.0.59",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c8dd09",
+        "latency": 172
     },
     {
         "server": "3621.mmd1.meli-n12.info",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 130
+        "latency": 173
     },
     {
-        "server": "violet.ashwren.xyz",
-        "port": 443,
-        "secret": "ee6fcf868535df2309ee2f6ea5a6563ef962726f777365722e79616e6465782e7275",
-        "latency": 130
-    },
-    {
-        "server": "shoes.golgoli2.co.uk",
-        "port": 2096,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 138
-    },
-    {
-        "server": "tolega24.tidalbirch.sbs",
-        "port": 8443,
-        "secret": "ee38f8e53c0cf60d4bf9b30013c901cbb164726976652e676f6f676c652e636f6d",
-        "latency": 139
-    },
-    {
-        "server": "21.mmd1.meli-n12.info",
+        "server": "46.62.224.5",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 140
+        "latency": 176
     },
     {
-        "server": "pebble.velvetwindow.cc",
-        "port": 443,
-        "secret": "eed09fb30e9ba945e3eb272875413c8c94706562626c652e76656c76657477696e646f772e6363",
-        "latency": 140
+        "server": "zendebad.damavand.co.uk",
+        "port": 2096,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 177
+    },
+    {
+        "server": "65.109.250.107",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 186
     }
 ]
