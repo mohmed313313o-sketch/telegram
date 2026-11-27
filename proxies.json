@@ -1,92 +1,92 @@
 [
     {
-        "server": "91.221.191.138",
-        "port": 443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 120
-    },
-    {
         "server": "87.248.144.153",
         "port": 8880,
         "secret": "dd79e344818749bd7ac519130220c25d09",
-        "latency": 122
+        "latency": 140
     },
     {
-        "server": "87.248.144.249",
+        "server": "87.248.144.253",
         "port": 2096,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 122
+        "latency": 145
     },
     {
-        "server": "85.133.200.45",
+        "server": "87.248.144.155",
         "port": 8880,
         "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 122
+        "latency": 145
     },
     {
-        "server": "87.248.144.151",
+        "server": "85.133.200.42",
+        "port": 8880,
+        "secret": "dd79e344818749bd7ac519130220c25d09",
+        "latency": 149
+    },
+    {
+        "server": "85.133.200.13",
+        "port": 8880,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 149
+    },
+    {
+        "server": "87.248.144.152",
         "port": 8880,
         "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 127
+        "latency": 149
     },
     {
-        "server": "77.216.4.82",
-        "port": 443,
-        "secret": "ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d",
-        "latency": 131
+        "server": "87.248.144.157",
+        "port": 8880,
+        "secret": "dd1603010200010001fc030386e24c3add",
+        "latency": 157
     },
     {
-        "server": "168.119.142.46",
-        "port": 443,
-        "secret": "dd79e7010200010007f0030386e24c3add",
-        "latency": 131
+        "server": "79.137.196.223",
+        "port": 2053,
+        "secret": "eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d",
+        "latency": 160
+    },
+    {
+        "server": "run.golgoli2.co.uk",
+        "port": 2053,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 162
     },
     {
         "server": "188.40.68.147",
         "port": 8443,
         "secret": "104462821249bd7ac519130220c25d09",
-        "latency": 131
+        "latency": 165
+    },
+    {
+        "server": "65.21.227.204",
+        "port": 443,
+        "secret": "dd79e7010200010007f0030386e24c3add",
+        "latency": 166
     },
     {
         "server": "162.55.45.247",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 132
+        "latency": 167
     },
     {
-        "server": "79.137.196.223",
-        "port": 4443,
-        "secret": "eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d",
-        "latency": 142
-    },
-    {
-        "server": "79.137.196.223",
-        "port": 9443,
-        "secret": "eeeed3431eaef666469f9beb5286a544d96f7777772e636c6f7564666c6172652e636f6d",
-        "latency": 143
-    },
-    {
-        "server": "65.109.214.109",
-        "port": 8443,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 146
-    },
-    {
-        "server": "79.137.196.223",
-        "port": 8443,
-        "secret": "eeeeacd334a255675ccc880cb6b8c9caf07777772e636c6f7564666c6172652e636f6d",
-        "latency": 148
-    },
-    {
-        "server": "day.lavazem4.co.uk",
-        "port": 2053,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 150
-    },
-    {
-        "server": "perfect.lavazem3.co.uk",
+        "server": "great.cipservice.co.uk",
         "port": 2096,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 151
+        "latency": 167
+    },
+    {
+        "server": "digi.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 171
+    },
+    {
+        "server": "188.40.68.169",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 172
     }
 ]
