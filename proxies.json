@@ -1,92 +1,92 @@
 [
     {
-        "server": "212.118.53.195",
+        "server": "max.kimt.click",
         "port": 443,
-        "secret": "dd4482437e89f9af8929514eee7faaf61f",
-        "latency": 134
-    },
-    {
-        "server": "87.248.144.159",
-        "port": 8880,
-        "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 145
+        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+        "latency": 114
     },
     {
         "server": "91.234.147.28",
-        "port": 443,
+        "port": 2020,
         "secret": "00000000000000000000000000000000",
-        "latency": 147
+        "latency": 136
     },
     {
-        "server": "37.49.229.43",
-        "port": 8443,
-        "secret": "dd71889eb517157210d61df330a5f11d95",
-        "latency": 147
+        "server": "91.234.147.18",
+        "port": 443,
+        "secret": "00000000000000000000000000000000",
+        "latency": 142
+    },
+    {
+        "server": "87.248.144.156",
+        "port": 8880,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 144
     },
     {
         "server": "87.248.144.155",
         "port": 8880,
         "secret": "dd1603010200010001fc030386e24c3add",
-        "latency": 149
+        "latency": 144
     },
     {
-        "server": "185.48.251.111",
+        "server": "37.114.37.93",
         "port": 443,
-        "secret": "dd3734eba41c93d0154af5016413b6a00e",
-        "latency": 165
+        "secret": "ee100bf723c989ac93cf96a44e108fe87e6769746875622e636f6d",
+        "latency": 147
     },
     {
-        "server": "46.62.224.5",
+        "server": "87.248.144.253",
+        "port": 2096,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 148
+    },
+    {
+        "server": "91.107.155.20",
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 167
+        "latency": 151
     },
     {
-        "server": "65.109.214.109",
+        "server": "91.107.170.11",
         "port": 8443,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 167
+        "latency": 152
     },
     {
-        "server": "162.55.45.247",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 173
+        "server": "79.137.196.223",
+        "port": 6443,
+        "secret": "eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d",
+        "latency": 154
     },
     {
-        "server": "188.245.118.216",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 177
-    },
-    {
-        "server": "torobchesho.co.uk",
-        "port": 443,
-        "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
-        "latency": 181
-    },
-    {
-        "server": "88.99.108.15",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "latency": 181
-    },
-    {
-        "server": "char.ionox.co.uk",
+        "server": "do.anotelinopalk.co.uk",
         "port": 8880,
         "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 181
+        "latency": 162
     },
     {
-        "server": "winter.lavazem2.co.uk",
-        "port": 2053,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "latency": 184
-    },
-    {
-        "server": "orchid.paperteapot.com",
+        "server": "2.27.42.26",
         "port": 443,
-        "secret": "eed09fb30e9ba945e3eb272875413c8c946f72636869642e7061706572746561706f742e636f6d",
-        "latency": 184
+        "secret": "eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564",
+        "latency": 164
+    },
+    {
+        "server": "5.222.20.81",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "latency": 172
+    },
+    {
+        "server": "fruit.golgoli2.co.uk",
+        "port": 2096,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "latency": 172
+    },
+    {
+        "server": "5.222.0.59",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c8dd09",
+        "latency": 179
     }
 ]
